@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: left;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #000000;
+    font-size: 30px;
+}
+
+h2 {
+    color: #f12323;
+    font-size: 20px;
+}
+
+h3 {
+    color: #4662db;
+    font-size: 20px;
+}
+
+h4 {
+    color: #7ae077;
+    font-size: 20px;
+}
+
+p {
+    color: #111111;
+}
+g {
+    color: rgb(70, 73, 73);
+    font-size: 12px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
