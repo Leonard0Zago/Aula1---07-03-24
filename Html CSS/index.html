@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
-    <h1>Tipos de manutenção.</h1>
+    <h1>TIPOS DE MANUTENÇÃO</h1>
     <p>Existem diveros tipos de manutenção, entre as mais conhecidas estão a corretiva, preventiva e a preditiva. </p>
     
     <h2>Manutenção corretiva.</h2>
@@ -29,6 +29,23 @@
     <g> A imagem ilustra um eletricista verificando temperatura das conexões.
     <br> Para prevenir o derretimento dos condutores.<br></g>
     <img src="Imagens/temperatura.png" /><br><br>
+
+    <h1>Entre em contato</h1>
+
+    <label for="nome">Nome</label><br>
+    <input type="text" id="nomeid" required="required" name="nome" /><br>
+    
+    <label for="fone">Fone</label><br>
+    <input type="tel" id="foneid" name="fone" /><br>
+    
+    <label for="email">Email</label><br>
+    <input type="email" id="emailid" name="email" /><br><br> 
+
+    <label for="pergunta">Pergunta</label><br>
+    <textarea type="text" id="pergunta" name="pergunta"></textarea><br>
+
+    <input type="submit" class="enviar" onclick="Enviar();" value="Enviar" />
+    </form>
     
 </body>
 </html>
