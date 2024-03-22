@@ -11,3 +11,4 @@ Pesquisar linguagem que da para mudar de banco mudando apenas uma linha de códi
 
 Estudar Rails.
 
+((((((((((((((((Pesquisar sobre os parametros de date.)))))))
